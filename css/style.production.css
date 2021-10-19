@@ -241,7 +241,7 @@ input{
   	  grid-template-rows: 300px 300px;
   }
 
-  .grid > *:nth-child(1){
+  /* .grid > *:nth-child(1){
     -ms-grid-row:1;
     -ms-grid-column:1;
   }
@@ -269,7 +269,7 @@ input{
   .grid > *:nth-child(6){
     -ms-grid-row:2;
     -ms-grid-column:3;
-  }
+  } */
 
   footer p{
 	  font-size: 25px;
